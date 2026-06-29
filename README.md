@@ -18,7 +18,7 @@
 
 # 💫 About Me
 
-🎓 Computer Science Engineering Student
+🎓 artificial intelligence Student
 
 🏫 SRM Institute of Science and Technology
 
@@ -88,38 +88,6 @@ To become an AI Engineer who builds intelligent systems capable of solving real-
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,figma,docker" />
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=2&column=4"/>
-
 </p>
 
 ---
@@ -205,14 +173,20 @@ An AI-powered marketing campaign optimization platform that predicts campaign pe
 
 # 📜 Certifications
 
-- AWS Cloud Practitioner (If Completed)
-- IBM AI Fundamentals
+- AWS Cloud Practitioner
+- AWS AI Practitioner
+- AWS Solution Architect
+- Oracle Cloud Infrastructure Genereative AI
 - Google Cloud Fundamentals
 - Python Programming
 
 ---
 
 # 🏅 Achievements
+
+🏆 Student Coordinatore - SRM Project Expo 2025
+
+🏆 Chair Person - SRM IEEE Compuatational Intelligence Society Student Chapter 
 
 🏆 Student Convenor – SRM Project Expo 2026
 
@@ -221,6 +195,8 @@ An AI-powered marketing campaign optimization platform that predicts campaign pe
 🏆 Passionate Open Source Contributor
 
 🏆 Active Competitive Programmer
+
+
 
 ---
 
